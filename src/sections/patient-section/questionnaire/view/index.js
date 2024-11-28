@@ -1,0 +1,1 @@
+export { default as QuestionnaireView } from './questionnaire-view';

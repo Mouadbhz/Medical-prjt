@@ -1,0 +1,1 @@
+export {default as SetQuestionnaireView} from'./set-questionnaire';

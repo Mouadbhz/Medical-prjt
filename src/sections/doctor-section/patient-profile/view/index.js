@@ -1,0 +1,1 @@
+export { default as PatientProfileView } from './patient-profile-view';

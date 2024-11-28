@@ -1,0 +1,1 @@
+export { default as PatientScoreView} from'./patient-score-view';
